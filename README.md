@@ -1,4 +1,4 @@
 # gitflowtest
 Some feature
 another feature
-fixed a bug
+fixed a bug - emergency
